@@ -25,7 +25,7 @@
         <!-- 工具包依赖 -->
         <dependency>
             <groupId>com.zz</groupId>
-            <artifactId>cloud-mall-util</artifactId>
+            <artifactId>cloud-mall-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
 

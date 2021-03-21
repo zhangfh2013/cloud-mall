@@ -18,7 +18,7 @@ import lombok.NoArgsConstructor;
 public class Brand {
 
     /**
-     * 主键
+     * 主键 @TableId 标记当前属性为主键列对应的属性
      */
     @TableId(type = IdType.AUTO, value = "id")
     private Integer id;

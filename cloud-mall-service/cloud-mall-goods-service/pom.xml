@@ -12,11 +12,13 @@
     <description>shop_goods数据库的增删改查</description>
 
     <dependencies>
+        <!-- goods-api -->
         <dependency>
             <groupId>com.zz</groupId>
             <artifactId>cloud-mall-goods-api</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
+
     </dependencies>
 
 </project>

@@ -1,4 +1,4 @@
-package com.zz.cloudmall.goods.boot;
+package com.zz.cloudmall.goods;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
